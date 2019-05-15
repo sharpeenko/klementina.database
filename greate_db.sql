@@ -1,0 +1,1 @@
+CREATE DATABASE `db_bezkorovainaya` /*!40100 DEFAULT CHARACTER SET utf8 */;
